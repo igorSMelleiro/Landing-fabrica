@@ -3,7 +3,7 @@
     <div class="lg:block xl:block sm:hidden md:hidden">
       <header class="">
           <nav class="bg-transparent">
-              <div class="w-11/12 mx-auto px-2 sm:px-6 lg:px-8">
+              <div class="w-12/12 mx-auto px-2 sm:px-6 lg:px-8">
                   <div class="relative flex items-center justify-between h-16">
                       <div class="flex items-center justify-center sm:items-stretch sm:justify-start mr-auto">
                           <div class="flex-shrink-0 flex items-center">
@@ -55,7 +55,7 @@
     
       <div class="border-bottom: 50% 50% 50% 50% / 0% 0% 100% 100% ;">
           <div id="home" class="grid grid-cols-2">
-              <div class="w-11/12 mt-44 ml-24">
+              <div class="w-11/12 mt-44 ml-8">
                   <h1 class="font-baloo2 text-black text-6xl text-justify w-10/12">Bem Vindo a Fábrica de Software</h1>
 
                   <p class="font-official text-gray-500 text-justify mt-10"> A fábrica de software tem como o objetivo, melhorar
